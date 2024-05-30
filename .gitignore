@@ -1,0 +1,3 @@
+.vscode/settings.json
+bin/Contador.class
+bin/ParametrosInvalidosException.class
